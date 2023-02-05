@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there my name is Alexander 👋
+
+What can i do :
+![javascript-original](https://user-images.githubusercontent.com/105720666/216828722-7175cb69-0262-4602-85a0-26ac7f4f5972.svg)
+![react-original-wordmark](https://user-images.githubusercontent.com/105720666/216828714-9e8cbe9e-6760-4f04-9e92-ee9843d97018.svg)
+![html5-original-wordmark](https://user-images.githubusercontent.com/105720666/216828743-e55730b0-c94a-499a-9a02-8caf72df93b1.svg)
+![css3-original-wordmark](https://user-images.githubusercontent.com/105720666/216828749-d8a959e1-6a77-4223-8492-39a83e64a8e4.svg)
+![redux-original](https://user-images.githubusercontent.com/105720666/216828767-f0c63daf-5da6-4abf-a7a1-552b5f2a1d16.svg)
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667](https://user-images.githubusercontent.com/105720666/216828780-0561e709-37d6-46f0-8bfe-5afb89888045.svg)
+![sass-original](https://user-images.githubusercontent.com/105720666/216828787-d3b4dfb3-03bb-4005-a86d-93d177b1e104.svg)
+
 
 <!--
 **Atomico592/Atomico592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
